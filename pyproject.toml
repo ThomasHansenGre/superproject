@@ -1,0 +1,11 @@
+[project]
+name = "superproject"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "numpy>=2.4.2",
+    "pip>=26.0",
+]
